@@ -1,4 +1,7 @@
 {
-    "version":"",
-    "build-version":""
-} 
+  "build-version": "1.20.61.01",
+  "version": "1.20.60",
+  "glags": [
+    "generated_types"
+  ]
+}
